@@ -128,34 +128,34 @@ mindmap
 
 ```mermaid
 flowchart TD
-  A[User opens app] --> B{Authenticated?}
-  B -- No --> C[/login]
-  C --> D[Sign In / Sign Up]
+  A["User opens app"] --> B{"Authenticated?"}
+  B -- "No" --> C["/login"]
+  C --> D["Sign In / Sign Up"]
   D --> B
 
-  B -- Yes --> E{Profile exists in users table?}
-  E -- No --> F[/role-selection]
-  F --> G[setRole upsert users profile]
-  G --> H[/]
+  B -- "Yes" --> E{"Profile exists in users table?"}
+  E -- "No" --> F["/role-selection"]
+  F --> G["setRole upsert users profile"]
+  G --> H["/ (root route)"]
 
-  E -- Yes --> H[/ protected layout]
-  H --> I[Dashboard]
-  H --> J[Pets]
-  H --> K[Appointments]
-  H --> L[Adoptions]
-  H --> M[Lost & Found]
-  H --> N[Community]
-  H --> O[AI Advisor]
-  H --> P[Emergency SOS owner/admin]
-  H --> Q[Admin Panel admin only]
+  E -- "Yes" --> H
+  H --> I["Dashboard"]
+  H --> J["Pets"]
+  H --> K["Appointments"]
+  H --> L["Adoptions"]
+  H --> M["Lost & Found"]
+  H --> N["Community"]
+  H --> O["AI Advisor"]
+  H --> P["Emergency SOS (owner/admin)"]
+  H --> Q["Admin Panel (admin only)"]
 
-  J --> R[(pets table + uploads bucket)]
-  K --> S[(appointments table)]
-  L --> T[(adoptions table + uploads bucket)]
-  M --> U[(lost_found table + uploads bucket)]
-  N --> V[(posts + post_likes + RPC)]
-  O --> W[FAQ -> HuggingFace -> Wikipedia fallback]
-  Q --> X[(analytics from all core tables)]
+  J --> R["pets table + uploads bucket"]
+  K --> S["appointments table"]
+  L --> T["adoptions table + uploads bucket"]
+  M --> U["lost_found table + uploads bucket"]
+  N --> V["posts + post_likes + RPC"]
+  O --> W["FAQ -> HuggingFace -> Wikipedia fallback"]
+  Q --> X["analytics from all core tables"]
 ```
 
 ## Database ER Diagram (Mermaid)
@@ -507,15 +507,6 @@ npm run build
 - Some legacy CRA files (`App.js`, `index.js`, tests) remain in repo but primary app entry is Vite + `src/main.tsx`.
 - `package.json` includes some dependencies not currently used in active source path (`express`, `better-sqlite3`, `@google/genai`, etc.).
 
-## Future Enhancements
-
-1. Wire AI advisor to production Gemini/OpenAI service with server-side key protection.
-2. Add geolocation + real distance sorting for emergency vet discovery.
-3. Implement full adoption request workflow (request, review, approval states).
-4. Expand admin moderation to include appointments/adoptions/lost-found actions.
-5. Add automated tests for role-based route guards and RLS-sensitive operations.
-6. Add backend API layer or edge functions for privileged/business-critical operations.
-
 ## Team & Contributors
 
 ### Core Team
@@ -529,5 +520,3 @@ npm run build
 | <img src="https://avatars.githubusercontent.com/u/267537298?v=4" alt="Nidhi Singh" width="56" /> | Nidhi Singh | [@nidhisingh9876](https://github.com/nidhisingh9876) |
 
 ---
-
-Maintained by Team 404 Finders.
