@@ -86,6 +86,21 @@ At a high level, the app provides:
 ## Mindmap
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#ffffff",
+    "primaryColor": "#D1FAE5",
+    "primaryTextColor": "#111827",
+    "secondaryColor": "#DBEAFE",
+    "secondaryTextColor": "#111827",
+    "tertiaryColor": "#FCE7F3",
+    "tertiaryTextColor": "#111827",
+    "lineColor": "#374151",
+    "textColor": "#111827",
+    "fontSize": "14px"
+  }
+}}%%
 mindmap
   root((PetSphere))
     Auth
