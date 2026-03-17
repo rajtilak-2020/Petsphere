@@ -520,23 +520,13 @@ npm run build
 
 ### Core Team
 
-- K Rajtilak - https://github.com/rajtilak-2020
-- Jasmine Kaur - https://github.com/Jasminekaur-ux
-- Chinmay Gabhne - https://github.com/chinmaygabhne
-- Ayushman Das - https://github.com/i-u-shh-man
-- Nidhi Singh - https://github.com/nidhisingh9876
-
-### GitHub Profile Snapshot
-
-Public GitHub profile details below were fetched on **March 17, 2026**.
-
-| Avatar | Name | GitHub | Public Repos | Followers | Following | Location | Bio |
-|---|---|---|---:|---:|---:|---|---|
-| <img src="https://avatars.githubusercontent.com/u/187183210?v=4" alt="K Rajtilak" width="56" /> | K Rajtilak | [@rajtilak-2020](https://github.com/rajtilak-2020) | 127 | 54 | 70 | Cuttack, Odisha, India | Into cybersecurity, IoT & Web Dev. Builds, breaks (ethically), and keeps learning. |
-| <img src="https://avatars.githubusercontent.com/u/196446165?v=4" alt="Jasmine Kaur" width="56" /> | Jasmine Kaur | [@Jasminekaur-ux](https://github.com/Jasminekaur-ux) | 70 | 5 | 9 | Not specified | Aspiring cybersecurity student focused on strategic defense against evolving threats. |
-| <img src="https://avatars.githubusercontent.com/u/198789327?v=4" alt="Chinmay Gabhne" width="56" /> | Chinmay Gabhne | [@chinmaygabhne](https://github.com/chinmaygabhne) | 8 | 9 | 10 | Not specified | Bio not provided on GitHub profile. |
-| <img src="https://avatars.githubusercontent.com/u/175961747?v=4" alt="Ayushman Das" width="56" /> | Ayushman Das | [@i-u-shh-man](https://github.com/i-u-shh-man) | 15 | 9 | 10 | India | Bio not provided on GitHub profile. |
-| <img src="https://avatars.githubusercontent.com/u/267537298?v=4" alt="Nidhi Singh" width="56" /> | Nidhi Singh | [@nidhisingh9876](https://github.com/nidhisingh9876) | 0 | 0 | 0 | Not specified | Bio not provided on GitHub profile. |
+| Avatar | Name | GitHub |
+|---|---|---|
+| <img src="https://avatars.githubusercontent.com/u/187183210?v=4" alt="K Rajtilak" width="56" /> | K Rajtilak | [@rajtilak-2020](https://github.com/rajtilak-2020) |
+| <img src="https://avatars.githubusercontent.com/u/196446165?v=4" alt="Jasmine Kaur" width="56" /> | Jasmine Kaur | [@Jasminekaur-ux](https://github.com/Jasminekaur-ux) |
+| <img src="https://avatars.githubusercontent.com/u/198789327?v=4" alt="Chinmay Gabhne" width="56" /> | Chinmay Gabhne | [@chinmaygabhne](https://github.com/chinmaygabhne) |
+| <img src="https://avatars.githubusercontent.com/u/175961747?v=4" alt="Ayushman Das" width="56" /> | Ayushman Das | [@i-u-shh-man](https://github.com/i-u-shh-man) |
+| <img src="https://avatars.githubusercontent.com/u/267537298?v=4" alt="Nidhi Singh" width="56" /> | Nidhi Singh | [@nidhisingh9876](https://github.com/nidhisingh9876) |
 
 ---
 
