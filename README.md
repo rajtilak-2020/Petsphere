@@ -507,5 +507,3 @@ npm run build
 | <img src="https://avatars.githubusercontent.com/u/198789327?v=4" alt="Chinmay Gabhne" width="56" /> | Chinmay Gabhne | [@chinmaygabhne](https://github.com/chinmaygabhne) |
 | <img src="https://avatars.githubusercontent.com/u/175961747?v=4" alt="Ayushman Das" width="56" /> | Ayushman Das | [@i-u-shh-man](https://github.com/i-u-shh-man) |
 | <img src="https://avatars.githubusercontent.com/u/267537298?v=4" alt="Nidhi Singh" width="56" /> | Nidhi Singh | [@nidhisingh9876](https://github.com/nidhisingh9876) |
-
----
