@@ -498,9 +498,7 @@ npm run build
 - Some legacy CRA files (`App.js`, `index.js`, tests) remain in repo but primary app entry is Vite + `src/main.tsx`.
 - `package.json` includes some dependencies not currently used in active source path (`express`, `better-sqlite3`, `@google/genai`, etc.).
 
-## Team & Contributors
-
-### Core Team
+## Contributors
 
 | Avatar | Name | GitHub |
 |---|---|---|
