@@ -8,30 +8,6 @@ A full-stack pet care platform built with React + Vite + Supabase that supports 
 
 PetSphere combines pet profile management, vet appointments, adoptions, lost-and-found reporting, community posts, emergency vet discovery, and an AI pet advisor into one application.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Core Features](#core-features)
-- [Role Capabilities Matrix](#role-capabilities-matrix)
-- [Architecture](#architecture)
-- [Mindmap](#mindmap)
-- [Application Flow (Mermaid)](#application-flow-mermaid)
-- [Database ER Diagram (Mermaid)](#database-er-diagram-mermaid)
-- [AI Advisor Message Pipeline (Mermaid)](#ai-advisor-message-pipeline-mermaid)
-- [Tech Stack](#tech-stack)
-- [Repository Structure](#repository-structure)
-- [Environment Variables](#environment-variables)
-- [Supabase Setup](#supabase-setup)
-- [Local Development](#local-development)
-- [Scripts](#scripts)
-- [Routing Map](#routing-map)
-- [Feature Deep Dive](#feature-deep-dive)
-- [Security Model](#security-model)
-- [Realtime Behavior](#realtime-behavior)
-- [Deployment](#deployment)
-- [Known Gaps / Notes](#known-gaps--notes)
-- [Future Enhancements](#future-enhancements)
-
 ## Project Overview
 
 PetSphere is a role-aware web application with a modern animated UI and Supabase backend.
